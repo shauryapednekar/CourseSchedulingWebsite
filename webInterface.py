@@ -14,7 +14,7 @@ import dash_html_components as html
 import dash_bootstrap_components as dbc
 from dash import no_update
 
-import or_tools4
+import optimizer
 
 # Variable used within the HTML:
 requirements_df_columns = ["Total Number of Courses",
@@ -543,14 +543,14 @@ def update_output_2(clicks, courses_table, selected_course_row_ids, requirements
         inputToOptimizer = (set_courses, courses_cost,  set_alternates,
                             alternates_dict, lower_bounds, upper_bounds)
 
-        total_value, coursesChosenByOptimizer = or_tools4.optimizer(
+        total_value, coursesChosenByOptimizer = optimizer.optimizer(
             inputToOptimizer)
 
         # Helpful for Debugging:
         # print(coursesChosenByOptimizer)
         # print("Total Value: ", total_value)
 
-        hyperScheduleOutput = or_tools4.courseToHyperScheduleFormat(
+        hyperScheduleOutput = optimizer.courseToHyperScheduleFormat(
             coursesChosenByOptimizer)
 
         jsonOutput = json.dumps(hyperScheduleOutput)
