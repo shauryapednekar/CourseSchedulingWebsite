@@ -1,0 +1,242 @@
+[
+    {
+        "courseCode": "MATH 156 CM-01",
+        "courseName": "Stochastic Processes",
+        "courseSortKey": [
+            "MATH156  CM-01 FA2021"
+        ],
+        "courseMutualExclusionKey": [
+            "MATH156  CM"
+        ],
+        "courseDescription": "Topics chosen from the theory of discrete and continuous Markov chains, second order processes, renewal processes, martingales, Brownian motion, branching processes, random sums, ergodic theory, and stationary processes. Offered jointly by CMC and Pomona. \nPrerequisite: Mathematics 151.",
+        "courseInstructors": [
+            "Mark Huber"
+        ],
+        "courseTerm": "FA2021",
+        "courseSchedule": [
+            {
+                "scheduleDays": "MWF",
+                "scheduleStartTime": "10:00",
+                "scheduleEndTime": "10:50",
+                "scheduleStartDate": "2021-08-30",
+                "scheduleEndDate": "2021-12-17",
+                "scheduleTermCount": 1,
+                "scheduleTerms": [
+                    0
+                ],
+                "scheduleLocation": "KRV165"
+            }
+        ],
+        "courseCredits": 1,
+        "courseSeatsTotal": 18,
+        "courseSeatsFilled": 0,
+        "courseWaitlistLength": null,
+        "courseEnrollmentStatus": "Open",
+        "selected": true
+    },
+    {
+        "courseCode": "CSMT 183 HM-01",
+        "courseName": "Computer Science & Math Clinic I",
+        "courseSortKey": [
+            "CSMT183  HM-01 FA2021"
+        ],
+        "courseMutualExclusionKey": [
+            "CSMT183  HM"
+        ],
+        "courseDescription": "Team project in joint computer science and mathematics, with corporate affiliation. 183 and 184 must be taken consecutively to count toward the major.\n",
+        "courseInstructors": [
+            "Darryl Yong",
+            " Staff",
+            "Darryl Yong",
+            " Staff",
+            "Darryl Yong",
+            " Staff"
+        ],
+        "courseTerm": "FA2021",
+        "courseSchedule": [
+            {
+                "scheduleDays": "MW",
+                "scheduleStartTime": "07:40",
+                "scheduleEndTime": "08:30",
+                "scheduleStartDate": "2021-08-30",
+                "scheduleEndDate": "2021-12-17",
+                "scheduleTermCount": 1,
+                "scheduleTerms": [
+                    0
+                ],
+                "scheduleLocation": "ARR"
+            },
+            {
+                "scheduleDays": "T",
+                "scheduleStartTime": "11:10",
+                "scheduleEndTime": "12:00",
+                "scheduleStartDate": "2021-08-30",
+                "scheduleEndDate": "2021-12-17",
+                "scheduleTermCount": 1,
+                "scheduleTerms": [
+                    0
+                ],
+                "scheduleLocation": "SP3A"
+            },
+            {
+                "scheduleDays": "T",
+                "scheduleStartTime": "11:10",
+                "scheduleEndTime": "12:00",
+                "scheduleStartDate": "2021-08-30",
+                "scheduleEndDate": "2021-12-17",
+                "scheduleTermCount": 1,
+                "scheduleTerms": [
+                    0
+                ],
+                "scheduleLocation": "GAMCAL"
+            }
+        ],
+        "courseCredits": 3,
+        "courseSeatsTotal": 50,
+        "courseSeatsFilled": 0,
+        "courseWaitlistLength": null,
+        "courseEnrollmentStatus": "Open",
+        "selected": true
+    },
+    {
+        "courseCode": "MATH 103 PO-01",
+        "courseName": "Combinatorial Mathematics",
+        "courseSortKey": [
+            "MATH103  PO-01 FA2021"
+        ],
+        "courseMutualExclusionKey": [
+            "MATH103  PO"
+        ],
+        "courseDescription": "Combinatorial Mathematics. An introduction to the techniques and ideas of Combinatorics including counting methods, generating functions, Ramsey theory, graphs, networks and extremal combinatorics. Offered jointly by Pomona and Scripps colleges.",
+        "courseInstructors": [
+            "Vin De Silva"
+        ],
+        "courseTerm": "FA2021",
+        "courseSchedule": [
+            {
+                "scheduleDays": "MW",
+                "scheduleStartTime": "13:20",
+                "scheduleEndTime": "14:35",
+                "scheduleStartDate": "2021-08-30",
+                "scheduleEndDate": "2021-12-17",
+                "scheduleTermCount": 1,
+                "scheduleTerms": [
+                    0
+                ],
+                "scheduleLocation": "ESTE2113"
+            }
+        ],
+        "courseCredits": 1,
+        "courseSeatsTotal": 30,
+        "courseSeatsFilled": 0,
+        "courseWaitlistLength": null,
+        "courseEnrollmentStatus": "Open",
+        "selected": true
+    },
+    {
+        "courseCode": "MATH 154 PO-01",
+        "courseName": "Computational Statistics",
+        "courseSortKey": [
+            "MATH154  PO-01 FA2021"
+        ],
+        "courseMutualExclusionKey": [
+            "MATH154  PO"
+        ],
+        "courseDescription": "An introduction to computationally intensive statistical techniques. Topics may include: random variable generation, Markov Chain Monte Carlo, tree based methods (CART, random forests), kernel based techniques (support vector machines), optimization, other classification, clustering & network analysis, the bootstrap, dimension reduction techniques, LASSO and the analysis of large data sets. Theory and applications are both highlighted. Algorithms will be implemented using statistical software. Prerequisites: MATH 031 PO or MATH 032 PO; and MATH 058 PO.",
+        "courseInstructors": [
+            "Johanna Hardin"
+        ],
+        "courseTerm": "FA2021",
+        "courseSchedule": [
+            {
+                "scheduleDays": "TR",
+                "scheduleStartTime": "09:35",
+                "scheduleEndTime": "10:50",
+                "scheduleStartDate": "2021-08-30",
+                "scheduleEndDate": "2021-12-17",
+                "scheduleTermCount": 1,
+                "scheduleTerms": [
+                    0
+                ],
+                "scheduleLocation": "ESTE1021"
+            }
+        ],
+        "courseCredits": 1,
+        "courseSeatsTotal": 30,
+        "courseSeatsFilled": 0,
+        "courseWaitlistLength": null,
+        "courseEnrollmentStatus": "Open",
+        "selected": true
+    },
+    {
+        "courseCode": "CSCI 153 HM-02",
+        "courseName": "Computer Vision",
+        "courseSortKey": [
+            "CSCI153  HM-02 FA2021"
+        ],
+        "courseMutualExclusionKey": [
+            "CSCI153  HM"
+        ],
+        "courseDescription": "Computational algorithms for visual perception. Students will develop applications that acquire, process and interpret still images and image streams. The course will cover representations of color, shading, texture and shape along with stereo and motion analysis, object recognition and approaches for three-dimensional representation. Applications include robotics, human perception and the use of large image databases.  Prerequisite: Computer Science 60 or 42.",
+        "courseInstructors": [
+            "James Boerkoel",
+            " Staff"
+        ],
+        "courseTerm": "FA2021",
+        "courseSchedule": [
+            {
+                "scheduleDays": "TR",
+                "scheduleStartTime": "14:55",
+                "scheduleEndTime": "16:10",
+                "scheduleStartDate": "2021-08-30",
+                "scheduleEndDate": "2021-12-17",
+                "scheduleTermCount": 1,
+                "scheduleTerms": [
+                    0
+                ],
+                "scheduleLocation": "SHAN2461"
+            }
+        ],
+        "courseCredits": 3,
+        "courseSeatsTotal": 23,
+        "courseSeatsFilled": 0,
+        "courseWaitlistLength": null,
+        "courseEnrollmentStatus": "Open",
+        "selected": true
+    },
+    {
+        "courseCode": "LIT 156 HM-01",
+        "courseName": "Translation/Foreignness of Lang",
+        "courseSortKey": [
+            "LIT 156  HM-01 FA2021"
+        ],
+        "courseMutualExclusionKey": [
+            "LIT 156  HM"
+        ],
+        "courseDescription": "This seminar is designed to introduce students to the foreignness of language through literary translation theory and its praxis. Participants will develop individual projects that will be revised and workshopped over the course of the semester. Weekly readings, including essays by theoreticians, accomplished writer-translators, and selections of multiple translations of a single text, will be used to familiarize students with a range of perspectives on translation and its relationship to writing. Prerequisite: Students must have reading knowledge of at least one foreign language.\n\nHSA Writing Intensive: Yes",
+        "courseInstructors": [
+            "Isabel Balseiro"
+        ],
+        "courseTerm": "FA2021",
+        "courseSchedule": [
+            {
+                "scheduleDays": "F",
+                "scheduleStartTime": "13:20",
+                "scheduleEndTime": "16:20",
+                "scheduleStartDate": "2021-08-30",
+                "scheduleEndDate": "2021-12-17",
+                "scheduleTermCount": 1,
+                "scheduleTerms": [
+                    0
+                ],
+                "scheduleLocation": "SHAN2425"
+            }
+        ],
+        "courseCredits": 3,
+        "courseSeatsTotal": 18,
+        "courseSeatsFilled": 0,
+        "courseWaitlistLength": null,
+        "courseEnrollmentStatus": "Open",
+        "selected": true
+    }
+]

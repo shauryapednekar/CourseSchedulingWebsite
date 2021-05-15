@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    /* background-image: url("/assets/bg14.jpg"); */
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(243, 189, 11);
+}
+
+/* h1,
+h2 {
+    color: rgb(0, 0, 0);
+} */

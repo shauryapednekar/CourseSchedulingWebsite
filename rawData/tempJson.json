@@ -1,0 +1,575 @@
+[
+  {
+    "courseCode": "CSMT 183 HM-01",
+    "courseName": "Computer Science & Math Clinic I",
+    "courseSortKey": ["CSMT183  HM-01 FA2021"],
+    "courseMutualExclusionKey": ["CSMT183  HM"],
+    "courseDescription": "Team project in joint computer science and mathematics, with corporate affiliation. 183 and 184 must be taken consecutively to count toward the major.\n",
+    "courseInstructors": [
+      "Darryl Yong",
+      " Staff",
+      "Darryl Yong",
+      " Staff",
+      "Darryl Yong",
+      " Staff"
+    ],
+    "courseTerm": "FA2021",
+    "courseSchedule": [
+      {
+        "scheduleDays": "MW",
+        "scheduleStartTime": "07:40",
+        "scheduleEndTime": "08:30",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "ARR"
+      },
+      {
+        "scheduleDays": "T",
+        "scheduleStartTime": "11:10",
+        "scheduleEndTime": "12:00",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "SP3A"
+      },
+      {
+        "scheduleDays": "T",
+        "scheduleStartTime": "11:10",
+        "scheduleEndTime": "12:00",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "GAMCAL"
+      }
+    ],
+    "courseCredits": 3,
+    "courseSeatsTotal": 50,
+    "courseSeatsFilled": 49,
+    "courseWaitlistLength": null,
+    "courseEnrollmentStatus": "Reopened",
+    "selected": true,
+    "starred": false
+  },
+  {
+    "courseCode": "LIT 156 HM-01",
+    "courseName": "Translation/Foreignness of Lang",
+    "courseSortKey": ["LIT 156  HM-01 FA2021"],
+    "courseMutualExclusionKey": ["LIT 156  HM"],
+    "courseDescription": "This seminar is designed to introduce students to the foreignness of language through literary translation theory and its praxis. Participants will develop individual projects that will be revised and workshopped over the course of the semester. Weekly readings, including essays by theoreticians, accomplished writer-translators, and selections of multiple translations of a single text, will be used to familiarize students with a range of perspectives on translation and its relationship to writing. Prerequisite: Students must have reading knowledge of at least one foreign language.\n\nHSA Writing Intensive: Yes",
+    "courseInstructors": ["Isabel Balseiro"],
+    "courseTerm": "FA2021",
+    "courseSchedule": [
+      {
+        "scheduleDays": "F",
+        "scheduleStartTime": "13:20",
+        "scheduleEndTime": "16:20",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "SHAN2425"
+      }
+    ],
+    "courseCredits": 3,
+    "courseSeatsTotal": 18,
+    "courseSeatsFilled": 14,
+    "courseWaitlistLength": null,
+    "courseEnrollmentStatus": "Open",
+    "selected": true,
+    "starred": false
+  },
+  {
+    "courseCode": "CSCI 159 HM-01",
+    "courseName": "Natural Language Processing",
+    "courseSortKey": ["CSCI159  HM-01 FA2021"],
+    "courseMutualExclusionKey": ["CSCI159  HM"],
+    "courseDescription": "An introduction to the fundamental concepts and ideas in natural language processing, sometimes called computational linguistics. The goals of the field range from text translation and understanding to enabling humans to converse with robots. We will study language processing starting from the word level to syntactic structure to the semantic meaning of text. Approaches include statistical as well as symbolic methods using logic and the lambda calculus. Students will build and modify systems and will use large existing corpora for validating their systems. Prerequisites: (CSCI081  HM or CSCI101  PO) and (MATH062  HM or BIOL154  HM or MATH151  CM or MATH151  PO)",
+    "courseInstructors": ["Alexandra Schofield"],
+    "courseTerm": "FA2021",
+    "courseSchedule": [
+      {
+        "scheduleDays": "MW",
+        "scheduleStartTime": "09:35",
+        "scheduleEndTime": "10:50",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "SHANB454"
+      }
+    ],
+    "courseCredits": 3,
+    "courseSeatsTotal": 20,
+    "courseSeatsFilled": 15,
+    "courseWaitlistLength": null,
+    "courseEnrollmentStatus": "Open",
+    "selected": true,
+    "starred": false
+  },
+  {
+    "courseCode": "ART 002 HM-01",
+    "courseName": "Modern & Contemp Art Practices",
+    "courseSortKey": ["ART 002  HM-01 FA2021"],
+    "courseMutualExclusionKey": ["ART 002  HM"],
+    "courseDescription": "This class is an experimental lecture style art making/art history hybrid course. Lectures will focus on art practices of the last 120 years. Students will create unconventional art projects (not papers) in response to the course material and partake in massive public pop-up exhibitions and interventions throughout the Harvey Mudd College campus.\n\nHSA Writing Intensive: No",
+    "courseInstructors": ["Kenneth Fandell"],
+    "courseTerm": "FA2021",
+    "courseSchedule": [
+      {
+        "scheduleDays": "TR",
+        "scheduleStartTime": "14:45",
+        "scheduleEndTime": "17:15",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "GAMCAL"
+      }
+    ],
+    "courseCredits": 3,
+    "courseSeatsTotal": 143,
+    "courseSeatsFilled": 70,
+    "courseWaitlistLength": null,
+    "courseEnrollmentStatus": "Open",
+    "selected": true,
+    "starred": false
+  },
+  {
+    "courseCode": "MATH 103 PO-01",
+    "courseName": "Combinatorial Mathematics",
+    "courseSortKey": ["MATH103  PO-01 FA2021"],
+    "courseMutualExclusionKey": ["MATH103  PO"],
+    "courseDescription": "Combinatorial Mathematics. An introduction to the techniques and ideas of Combinatorics including counting methods, generating functions, Ramsey theory, graphs, networks and extremal combinatorics. Offered jointly by Pomona and Scripps colleges.",
+    "courseInstructors": ["Vin De Silva"],
+    "courseTerm": "FA2021",
+    "courseSchedule": [
+      {
+        "scheduleDays": "MW",
+        "scheduleStartTime": "13:20",
+        "scheduleEndTime": "14:35",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "ESTE2113"
+      }
+    ],
+    "courseCredits": 1,
+    "courseSeatsTotal": 30,
+    "courseSeatsFilled": 15,
+    "courseWaitlistLength": null,
+    "courseEnrollmentStatus": "Open",
+    "selected": true,
+    "starred": false
+  },
+  {
+    "courseCode": "MATH 154 PO-01",
+    "courseName": "Computational Statistics",
+    "courseSortKey": ["MATH154  PO-01 FA2021"],
+    "courseMutualExclusionKey": ["MATH154  PO"],
+    "courseDescription": "An introduction to computationally intensive statistical techniques. Topics may include: random variable generation, Markov Chain Monte Carlo, tree based methods (CART, random forests), kernel based techniques (support vector machines), optimization, other classification, clustering & network analysis, the bootstrap, dimension reduction techniques, LASSO and the analysis of large data sets. Theory and applications are both highlighted. Algorithms will be implemented using statistical software. Prerequisites: MATH 031 PO or MATH 032 PO; and MATH 058 PO.",
+    "courseInstructors": ["Johanna Hardin"],
+    "courseTerm": "FA2021",
+    "courseSchedule": [
+      {
+        "scheduleDays": "TR",
+        "scheduleStartTime": "09:35",
+        "scheduleEndTime": "10:50",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "ESTE1021"
+      }
+    ],
+    "courseCredits": 1,
+    "courseSeatsTotal": 30,
+    "courseSeatsFilled": 30,
+    "courseWaitlistLength": null,
+    "courseEnrollmentStatus": "Closed",
+    "selected": true,
+    "starred": false
+  },
+  {
+    "courseCode": "CSCI 153 HM-01",
+    "courseName": "Computer Vision",
+    "courseSortKey": ["CSCI153  HM-01 FA2021"],
+    "courseMutualExclusionKey": ["CSCI153  HM"],
+    "courseDescription": "Computational algorithms for visual perception. Students will develop applications that acquire, process and interpret still images and image streams. The course will cover representations of color, shading, texture and shape along with stereo and motion analysis, object recognition and approaches for three-dimensional representation. Applications include robotics, human perception and the use of large image databases.  Prerequisite: Computer Science 60 or 42.",
+    "courseInstructors": [" Staff", "James Boerkoel"],
+    "courseTerm": "FA2021",
+    "courseSchedule": [
+      {
+        "scheduleDays": "TR",
+        "scheduleStartTime": "13:20",
+        "scheduleEndTime": "14:35",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "SHAN2461"
+      }
+    ],
+    "courseCredits": 3,
+    "courseSeatsTotal": 24,
+    "courseSeatsFilled": 22,
+    "courseWaitlistLength": null,
+    "courseEnrollmentStatus": "Open",
+    "selected": true,
+    "starred": false
+  },
+  {
+    "courseCode": "CSCI 153 HM-02",
+    "courseName": "Computer Vision",
+    "courseSortKey": ["CSCI153  HM-02 FA2021"],
+    "courseMutualExclusionKey": ["CSCI153  HM"],
+    "courseDescription": "Computational algorithms for visual perception. Students will develop applications that acquire, process and interpret still images and image streams. The course will cover representations of color, shading, texture and shape along with stereo and motion analysis, object recognition and approaches for three-dimensional representation. Applications include robotics, human perception and the use of large image databases.  Prerequisite: Computer Science 60 or 42.",
+    "courseInstructors": ["James Boerkoel", " Staff"],
+    "courseTerm": "FA2021",
+    "courseSchedule": [
+      {
+        "scheduleDays": "TR",
+        "scheduleStartTime": "14:55",
+        "scheduleEndTime": "16:10",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "SHAN2461"
+      }
+    ],
+    "courseCredits": 3,
+    "courseSeatsTotal": 23,
+    "courseSeatsFilled": 20,
+    "courseWaitlistLength": null,
+    "courseEnrollmentStatus": "Open",
+    "selected": true,
+    "starred": false
+  },
+  {
+    "courseCode": "CSCI 152 PO-01",
+    "courseName": "Neural Networks",
+    "courseSortKey": ["CSCI152  PO-01 FA2021"],
+    "courseMutualExclusionKey": ["CSCI152  PO"],
+    "courseDescription": "An introduction to the theory and practical applications of neural networks. This course will cover simple perceptrons through modern convolutional and recurrent neural networks. Topics include gathering and processing data, optimization algorithms, and hyperparameter tuning. Application domains include computer vision, natural language processing, recommender systems, and content generation. Ethical implications of design decisions will also be considered throughout the course. Letter grade only. Prerequisites: CSCI062  PO or MATH030  PO or equivalent. Course is equivalent to CSCI152  HM.",
+    "courseInstructors": ["David Kauchak", "Anthony Clark"],
+    "courseTerm": "FA2021",
+    "courseSchedule": [
+      {
+        "scheduleDays": "TR",
+        "scheduleStartTime": "13:20",
+        "scheduleEndTime": "14:35",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "ESTE2141"
+      }
+    ],
+    "courseCredits": 1,
+    "courseSeatsTotal": 20,
+    "courseSeatsFilled": 21,
+    "courseWaitlistLength": null,
+    "courseEnrollmentStatus": "Closed",
+    "selected": true,
+    "starred": false
+  },
+  {
+    "courseCode": "CSCI 105 HM-01",
+    "courseName": "Computer Systems",
+    "courseSortKey": ["CSCI105  HM-01 FA2021"],
+    "courseMutualExclusionKey": ["CSCI105  HM"],
+    "courseDescription": "An introduction to computer systems. In particular the course investigates data representations, machine level representations of programs, processor architecture, program optimizations, the memory hierarchy, linking, exceptional control flow (exceptions, interrupts, processes and Unix signals), performance measurement, virtual memory, system-level I/O and basic concurrent programming. These concepts are supported by a series of hands-on lab assignments. Prerequisite: Computer Science 70.",
+    "courseInstructors": [
+      "Katherine Trushkowsky",
+      "Katherine Trushkowsky",
+      "Katherine Trushkowsky",
+      "Katherine Trushkowsky"
+    ],
+    "courseTerm": "FA2021",
+    "courseSchedule": [
+      {
+        "scheduleDays": "F",
+        "scheduleStartTime": "13:20",
+        "scheduleEndTime": "14:35",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "MCSC204"
+      },
+      {
+        "scheduleDays": "F",
+        "scheduleStartTime": "13:20",
+        "scheduleEndTime": "14:35",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "MCSC203"
+      },
+      {
+        "scheduleDays": "F",
+        "scheduleStartTime": "13:20",
+        "scheduleEndTime": "14:35",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "MCSC205"
+      },
+      {
+        "scheduleDays": "MW",
+        "scheduleStartTime": "11:10",
+        "scheduleEndTime": "12:25",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "SHAN3485"
+      }
+    ],
+    "courseCredits": 3,
+    "courseSeatsTotal": 30,
+    "courseSeatsFilled": 26,
+    "courseWaitlistLength": null,
+    "courseEnrollmentStatus": "Open",
+    "selected": true,
+    "starred": false
+  },
+  {
+    "courseCode": "CSCI 105 HM-02",
+    "courseName": "Computer Systems",
+    "courseSortKey": ["CSCI105  HM-02 FA2021"],
+    "courseMutualExclusionKey": ["CSCI105  HM"],
+    "courseDescription": "An introduction to computer systems. In particular the course investigates data representations, machine level representations of programs, processor architecture, program optimizations, the memory hierarchy, linking, exceptional control flow (exceptions, interrupts, processes and Unix signals), performance measurement, virtual memory, system-level I/O and basic concurrent programming. These concepts are supported by a series of hands-on lab assignments. Prerequisite: Computer Science 70.",
+    "courseInstructors": [
+      "Katherine Trushkowsky",
+      "Katherine Trushkowsky",
+      "Katherine Trushkowsky",
+      "Katherine Trushkowsky"
+    ],
+    "courseTerm": "FA2021",
+    "courseSchedule": [
+      {
+        "scheduleDays": "F",
+        "scheduleStartTime": "13:20",
+        "scheduleEndTime": "14:35",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "MCSC205"
+      },
+      {
+        "scheduleDays": "F",
+        "scheduleStartTime": "13:20",
+        "scheduleEndTime": "14:35",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "MCSC204"
+      },
+      {
+        "scheduleDays": "MW",
+        "scheduleStartTime": "13:20",
+        "scheduleEndTime": "14:35",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "SHAN2454"
+      },
+      {
+        "scheduleDays": "F",
+        "scheduleStartTime": "13:20",
+        "scheduleEndTime": "14:35",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "MCSC203"
+      }
+    ],
+    "courseCredits": 3,
+    "courseSeatsTotal": 30,
+    "courseSeatsFilled": 24,
+    "courseWaitlistLength": null,
+    "courseEnrollmentStatus": "Open",
+    "selected": true,
+    "starred": false
+  },
+  {
+    "courseCode": "MATH 189T HM-01",
+    "courseName": "Special Topics in Combinatorics",
+    "courseSortKey": ["MATH189T HM-01 FA2021F2"],
+    "courseMutualExclusionKey": ["MATH189T HM"],
+    "courseDescription": "Exploration of novel applications of combinatorics, with a special emphasis on proving combinatorial identities that utilize Fibonacci numbers, alternating sums, continued fractions, or determinants. Prerequisite: Math 55, though the course may occasionally use some probability or linear algebra.",
+    "courseInstructors": ["Arthur Benjamin"],
+    "courseTerm": "FA2021F2",
+    "courseSchedule": [
+      {
+        "scheduleDays": "MW",
+        "scheduleStartTime": "11:10",
+        "scheduleEndTime": "12:25",
+        "scheduleStartDate": "2021-10-20",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 2,
+        "scheduleTerms": [1],
+        "scheduleLocation": "SHANB470"
+      }
+    ],
+    "courseCredits": 1.5,
+    "courseSeatsTotal": 20,
+    "courseSeatsFilled": 17,
+    "courseWaitlistLength": null,
+    "courseEnrollmentStatus": "Open",
+    "selected": true,
+    "starred": false
+  },
+  {
+    "courseCode": "MATH 156 CM-01",
+    "courseName": "Stochastic Processes",
+    "courseSortKey": ["MATH156  CM-01 FA2021"],
+    "courseMutualExclusionKey": ["MATH156  CM"],
+    "courseDescription": "Topics chosen from the theory of discrete and continuous Markov chains, second order processes, renewal processes, martingales, Brownian motion, branching processes, random sums, ergodic theory, and stationary processes. Offered jointly by CMC and Pomona. \nPrerequisite: Mathematics 151.",
+    "courseInstructors": ["Mark Huber"],
+    "courseTerm": "FA2021",
+    "courseSchedule": [
+      {
+        "scheduleDays": "MWF",
+        "scheduleStartTime": "10:00",
+        "scheduleEndTime": "10:50",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "KRV165"
+      }
+    ],
+    "courseCredits": 1,
+    "courseSeatsTotal": 18,
+    "courseSeatsFilled": 18,
+    "courseWaitlistLength": null,
+    "courseEnrollmentStatus": "Closed",
+    "selected": true,
+    "starred": false
+  },
+  {
+    "courseCode": "ECON 197 PZ-01",
+    "courseName": "Time Series",
+    "courseSortKey": ["ECON197  PZ-01 FA2021"],
+    "courseMutualExclusionKey": ["ECON197  PZ"],
+    "courseDescription": "This is an empirical introductory course in time series analysis. The course will teach students how to do time series regression using time-series data. The course will cover ARMA/ARIMA models, model identification estimation and linear\noperators as well as model building, filtering, smoothing, spectral analysis and response studies. The analyses will be\nperformed using STATA and R (R studio).\n",
+    "courseInstructors": ["Menna Bizuneh Fikru"],
+    "courseTerm": "FA2021",
+    "courseSchedule": [
+      {
+        "scheduleDays": "MW",
+        "scheduleStartTime": "14:55",
+        "scheduleEndTime": "16:10",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "FL106"
+      }
+    ],
+    "courseCredits": 0.5,
+    "courseSeatsTotal": 20,
+    "courseSeatsFilled": 0,
+    "courseWaitlistLength": null,
+    "courseEnrollmentStatus": "Open",
+    "selected": true,
+    "starred": false
+  },
+  {
+    "courseCode": "ENGR 190AW HM-01",
+    "courseName": "SignalProcss/Model/Classifctn II",
+    "courseSortKey": ["ENGR190AWHM-01 FA2021"],
+    "courseMutualExclusionKey": ["ENGR190AWHM"],
+    "courseDescription": "",
+    "courseInstructors": ["Timothy Tsai"],
+    "courseTerm": "FA2021",
+    "courseSchedule": [
+      {
+        "scheduleDays": "TR",
+        "scheduleStartTime": "09:35",
+        "scheduleEndTime": "10:50",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "SHAN2407"
+      }
+    ],
+    "courseCredits": 3,
+    "courseSeatsTotal": 20,
+    "courseSeatsFilled": 13,
+    "courseWaitlistLength": null,
+    "courseEnrollmentStatus": "Open",
+    "selected": true,
+    "starred": false
+  },
+  {
+    "courseCode": "ENGR 205 HM-01",
+    "courseName": "State Estimation",
+    "courseSortKey": ["ENGR205  HM-01 FA2021"],
+    "courseMutualExclusionKey": ["ENGR205  HM"],
+    "courseDescription": "This course explores the field of state estimation, and does so through applications in autonomous vehicles. Topics include a review of probability, state or belief representations, and an introduction to several popular filters including Bayes Filters, Kalman Filters, Extended Kalman Filters, Unscented Kalman Filters, and Particle Filters. The course will include a series of labs where students apply the different filters to real data. The course will culminate in a self-designed project in which students must find or collect their own data. Prerequisites: Engineering 102.",
+    "courseInstructors": [" Staff"],
+    "courseTerm": "FA2021",
+    "courseSchedule": [
+      {
+        "scheduleDays": "TR",
+        "scheduleStartTime": "16:30",
+        "scheduleEndTime": "17:45",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "SHAN2461"
+      }
+    ],
+    "courseCredits": 3,
+    "courseSeatsTotal": 24,
+    "courseSeatsFilled": 24,
+    "courseWaitlistLength": null,
+    "courseEnrollmentStatus": "Closed",
+    "selected": true,
+    "starred": false
+  },
+  {
+    "courseCode": "SOSC 150 HM-01",
+    "courseName": "Public Speaking/Sci & Citizenshp",
+    "courseSortKey": ["SOSC150  HM-01 FA2021"],
+    "courseMutualExclusionKey": ["SOSC150  HM"],
+    "courseDescription": "This course builds student speaking skills in three areas: communicating advanced topics in science and technology to non-specialists; speaking out on questions of politics and values; and engaging the intersection of the two through presentations on technically intensive social controversies. \n\nHSA Writing Intensive: No",
+    "courseInstructors": ["Paul Steinberg"],
+    "courseTerm": "FA2021",
+    "courseSchedule": [
+      {
+        "scheduleDays": "MWF",
+        "scheduleStartTime": "10:00",
+        "scheduleEndTime": "10:50",
+        "scheduleStartDate": "2021-08-30",
+        "scheduleEndDate": "2021-12-17",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0],
+        "scheduleLocation": "SHAN2425"
+      }
+    ],
+    "courseCredits": 3,
+    "courseSeatsTotal": 15,
+    "courseSeatsFilled": 15,
+    "courseWaitlistLength": null,
+    "courseEnrollmentStatus": "Closed",
+    "selected": true,
+    "starred": false
+  }
+]

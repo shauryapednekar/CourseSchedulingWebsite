@@ -1,0 +1,80 @@
+[
+  {
+    "courseCode": "AFRI 010AC AF-01",
+    "courseCredits": "3.0",
+    "courseDescription": null,
+    "courseEnrollmentStatus": "open",
+    "courseInstructors": ["Mubirumusoke, Mukasa"],
+    "courseMutualExclusionKey": ["AFRI", 10, "AC", "AF"],
+    "courseName": "Intro to Africana Studies",
+    "courseSchedule": [
+      {
+        "scheduleDays": "TR",
+        "scheduleEndDate": "2021-05-14",
+        "scheduleEndTime": "14:00",
+        "scheduleLocation": "CM Campus, Online",
+        "scheduleStartDate": "2021-01-25",
+        "scheduleStartTime": "12:45",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0]
+      }
+    ],
+    "courseSeatsFilled": 0,
+    "courseSeatsTotal": 18,
+    "courseSortKey": ["AFRI", 10, "AC", "AF", 1],
+    "courseTerm": "SP 2021",
+    "courseWaitlistLength": null
+  },
+  {
+    "courseCode": "AFRI 010B AF-01",
+    "courseCredits": "3.0",
+    "courseDescription": "Africana Studies is an interdisciplinary field that examines the historical, cultural, literary, aesthetic, political, social, and economic experiences and knowledges of peoples of African origin in both Africa and the African diaspora. In this course, we will consider several disciplines, such as art history, psychology, and philosophy, and their intersection with Africana Studies. We will discuss how these disciplines approach Africana Studies and how Africana Studies scholars can employ disciplinary lenses. In the process of producing a research paper this semester, you will explore and select the methods for which you will conduct your research.",
+    "courseEnrollmentStatus": "open",
+    "courseInstructors": ["Soliman, Maryan"],
+    "courseMutualExclusionKey": ["AFRI", 10, "B", "AF"],
+    "courseName": "Research Methods",
+    "courseSchedule": [
+      {
+        "scheduleDays": "W",
+        "scheduleEndDate": "2021-05-14",
+        "scheduleEndTime": "17:15",
+        "scheduleLocation": "SC Campus, Online",
+        "scheduleStartDate": "2021-01-25",
+        "scheduleStartTime": "14:30",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0]
+      }
+    ],
+    "courseSeatsFilled": 0,
+    "courseSeatsTotal": 15,
+    "courseSortKey": ["AFRI", 10, "B", "AF", 1],
+    "courseTerm": "SP 2021",
+    "courseWaitlistLength": null
+  },
+  {
+    "courseCode": "AFRI 121 AF-01",
+    "courseCredits": "3.0",
+    "courseDescription": "Philosophical thought and the philosophical cannon cannot be restricted to the 'great thinkers' of western history. This course will be a general introduction to Africana Philosophy. We will unveil not only that philosophy is more than the western world and has points of origin in other places, such as Africa, but we will also discover how Africana philosophy serves as a challenge to the integrity of integral concepts and themes in modern western philosophy; for example, the subject, freedom, the human, and even ontology. We will achieve these insights through a survey of thinkers, writers, and people who address themes such as traditional africana thought, black existentialism, black feminism, post colonialism, whiteness, double consciousness, and afro-pessimism.",
+    "courseEnrollmentStatus": "open",
+    "courseInstructors": ["Mubirumusoke, Mukasa"],
+    "courseMutualExclusionKey": ["AFRI", 121, "", "AF"],
+    "courseName": "Africana Philosophy",
+    "courseSchedule": [
+      {
+        "scheduleDays": "TR",
+        "scheduleEndDate": "2021-05-14",
+        "scheduleEndTime": "12:15",
+        "scheduleLocation": "CM Campus, Online",
+        "scheduleStartDate": "2021-01-25",
+        "scheduleStartTime": "11:00",
+        "scheduleTermCount": 1,
+        "scheduleTerms": [0]
+      }
+    ],
+    "courseSeatsFilled": 0,
+    "courseSeatsTotal": 8,
+    "courseSortKey": ["AFRI", 121, "", "AF", 1],
+    "courseTerm": "SP 2021",
+    "courseWaitlistLength": null
+  }
+]
