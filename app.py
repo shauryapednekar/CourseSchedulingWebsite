@@ -571,7 +571,3 @@ def update_columns(n_clicks, existing_columns):
             }
         )
     return existing_columns
-
-
-if __name__ == "__main__":
-    app.run_server(debug=True)
