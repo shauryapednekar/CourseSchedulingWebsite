@@ -2,7 +2,8 @@ import json
 from ortools.linear_solver import pywraplp
 from collections import defaultdict
 import excel_parser
-solver = pywraplp.Solver.CreateSolver('SCIP')
+
+solver = pywraplp.Solver.CreateSolver("SCIP")
 
 ############### DATA #############
 processed_data = {}
@@ -21,10 +22,23 @@ def optimizer(data, useCsv=False, currTerm=True):
 
     ########## Input Format ###############
     if useCsv:
-        set_courses, courses_cost, set_alternates, alternates_dict, lower_bounds, upper_bounds = excel_parser.parse_csv(
-            df)
+        (
+            set_courses,
+            courses_cost,
+            set_alternates,
+            alternates_dict,
+            lower_bounds,
+            upper_bounds,
+        ) = excel_parser.parse_csv(df)
     else:
-        set_courses, courses_cost, set_alternates, alternates_dict, lower_bounds, upper_bounds = data
+        (
+            set_courses,
+            courses_cost,
+            set_alternates,
+            alternates_dict,
+            lower_bounds,
+            upper_bounds,
+        ) = data
 
     ###############################
     """
@@ -36,7 +50,7 @@ def optimizer(data, useCsv=False, currTerm=True):
     """
     courses_bool = {}
     for course in set_courses:
-        courses_bool[course] = solver.IntVar(0, 1, '')
+        courses_bool[course] = solver.IntVar(0, 1, "")
 
     #######################
     # Time constraint:
@@ -146,21 +160,49 @@ def optimizer(data, useCsv=False, currTerm=True):
 
     # UNIQUENESS CONSTRAINT
     for underlying_course in underlying_courses.keys():
-        solver.Add(solver.Sum([course_same_bool[(
-            course, underlying_course)]*courses_bool[course] for course in set_courses]) <= 1)
+        solver.Add(
+            solver.Sum(
+                [
+                    course_same_bool[(course, underlying_course)] * courses_bool[course]
+                    for course in set_courses
+                ]
+            )
+            <= 1
+        )
 
     # TIME CONFLICT CONSTRAINT
     for time_id in set_current_time_ids:
-        solver.Add(solver.Sum([course_time_bool[(course, time_id)]
-                   * courses_bool[course] for course in set_courses]) <= 1)
+        solver.Add(
+            solver.Sum(
+                [
+                    course_time_bool[(course, time_id)] * courses_bool[course]
+                    for course in set_courses
+                ]
+            )
+            <= 1
+        )
 
     # ALTERNATES CONSTRAINT
     for alternate_id in set_alternates:
-        solver.Add(solver.Sum([course_alt_bool[(course, alternate_id)]*courses_bool[course]
-                   for course in set_courses]) <= upper_bounds[alternate_id])
+        solver.Add(
+            solver.Sum(
+                [
+                    course_alt_bool[(course, alternate_id)] * courses_bool[course]
+                    for course in set_courses
+                ]
+            )
+            <= upper_bounds[alternate_id]
+        )
 
-        solver.Add(solver.Sum([course_alt_bool[(course, alternate_id)]*courses_bool[course]
-                   for course in set_courses]) >= lower_bounds[alternate_id])
+        solver.Add(
+            solver.Sum(
+                [
+                    course_alt_bool[(course, alternate_id)] * courses_bool[course]
+                    for course in set_courses
+                ]
+            )
+            >= lower_bounds[alternate_id]
+        )
 
     # Objective
     objective_terms = []
@@ -181,7 +223,7 @@ def optimizer(data, useCsv=False, currTerm=True):
                 # print(course)
                 res.append((course, courseName))
     else:
-        return[("Status: ", status)]
+        return [("Status: ", status)]
 
     return (solver.Objective().Value(), res)
 

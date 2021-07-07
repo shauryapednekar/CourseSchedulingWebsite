@@ -1,4 +1,8 @@
 /__pycache__
 /.vscode
-/cs181venv
+/*venv
 /rough
+*.xlsx
+*.jpg
+*.jfif
+rawData/rough

@@ -1,115 +1,16 @@
 [
     {
-        "courseCode": "MATH 156 CM-01",
-        "courseName": "Stochastic Processes",
+        "courseCode": "ANTH 002 PO-03",
+        "courseName": "Intro to Sociocultural Anth",
         "courseSortKey": [
-            "MATH156  CM-01 FA2021"
+            "ANTH002  PO-03 FA2021"
         ],
         "courseMutualExclusionKey": [
-            "MATH156  CM"
+            "ANTH002  PO"
         ],
-        "courseDescription": "Topics chosen from the theory of discrete and continuous Markov chains, second order processes, renewal processes, martingales, Brownian motion, branching processes, random sums, ergodic theory, and stationary processes. Offered jointly by CMC and Pomona. \nPrerequisite: Mathematics 151.",
+        "courseDescription": "Study of the structure and dynamics of human culture and social institutions from a comparative perspective. Diversity in ways of life and patterns of social organization explored through ethnographic materials from societies around the world.",
         "courseInstructors": [
-            "Mark Huber"
-        ],
-        "courseTerm": "FA2021",
-        "courseSchedule": [
-            {
-                "scheduleDays": "MWF",
-                "scheduleStartTime": "10:00",
-                "scheduleEndTime": "10:50",
-                "scheduleStartDate": "2021-08-30",
-                "scheduleEndDate": "2021-12-17",
-                "scheduleTermCount": 1,
-                "scheduleTerms": [
-                    0
-                ],
-                "scheduleLocation": "KRV165"
-            }
-        ],
-        "courseCredits": 1,
-        "courseSeatsTotal": 18,
-        "courseSeatsFilled": 0,
-        "courseWaitlistLength": null,
-        "courseEnrollmentStatus": "Open",
-        "selected": true
-    },
-    {
-        "courseCode": "CSMT 183 HM-01",
-        "courseName": "Computer Science & Math Clinic I",
-        "courseSortKey": [
-            "CSMT183  HM-01 FA2021"
-        ],
-        "courseMutualExclusionKey": [
-            "CSMT183  HM"
-        ],
-        "courseDescription": "Team project in joint computer science and mathematics, with corporate affiliation. 183 and 184 must be taken consecutively to count toward the major.\n",
-        "courseInstructors": [
-            "Darryl Yong",
-            " Staff",
-            "Darryl Yong",
-            " Staff",
-            "Darryl Yong",
-            " Staff"
-        ],
-        "courseTerm": "FA2021",
-        "courseSchedule": [
-            {
-                "scheduleDays": "MW",
-                "scheduleStartTime": "07:40",
-                "scheduleEndTime": "08:30",
-                "scheduleStartDate": "2021-08-30",
-                "scheduleEndDate": "2021-12-17",
-                "scheduleTermCount": 1,
-                "scheduleTerms": [
-                    0
-                ],
-                "scheduleLocation": "ARR"
-            },
-            {
-                "scheduleDays": "T",
-                "scheduleStartTime": "11:10",
-                "scheduleEndTime": "12:00",
-                "scheduleStartDate": "2021-08-30",
-                "scheduleEndDate": "2021-12-17",
-                "scheduleTermCount": 1,
-                "scheduleTerms": [
-                    0
-                ],
-                "scheduleLocation": "SP3A"
-            },
-            {
-                "scheduleDays": "T",
-                "scheduleStartTime": "11:10",
-                "scheduleEndTime": "12:00",
-                "scheduleStartDate": "2021-08-30",
-                "scheduleEndDate": "2021-12-17",
-                "scheduleTermCount": 1,
-                "scheduleTerms": [
-                    0
-                ],
-                "scheduleLocation": "GAMCAL"
-            }
-        ],
-        "courseCredits": 3,
-        "courseSeatsTotal": 50,
-        "courseSeatsFilled": 0,
-        "courseWaitlistLength": null,
-        "courseEnrollmentStatus": "Open",
-        "selected": true
-    },
-    {
-        "courseCode": "MATH 103 PO-01",
-        "courseName": "Combinatorial Mathematics",
-        "courseSortKey": [
-            "MATH103  PO-01 FA2021"
-        ],
-        "courseMutualExclusionKey": [
-            "MATH103  PO"
-        ],
-        "courseDescription": "Combinatorial Mathematics. An introduction to the techniques and ideas of Combinatorics including counting methods, generating functions, Ramsey theory, graphs, networks and extremal combinatorics. Offered jointly by Pomona and Scripps colleges.",
-        "courseInstructors": [
-            "Vin De Silva"
+            "Alexandra Lippman"
         ],
         "courseTerm": "FA2021",
         "courseSchedule": [
@@ -123,28 +24,163 @@
                 "scheduleTerms": [
                     0
                 ],
-                "scheduleLocation": "ESTE2113"
+                "scheduleLocation": "CA11"
             }
         ],
         "courseCredits": 1,
-        "courseSeatsTotal": 30,
+        "courseSeatsTotal": 20,
         "courseSeatsFilled": 0,
         "courseWaitlistLength": null,
         "courseEnrollmentStatus": "Open",
         "selected": true
     },
     {
-        "courseCode": "MATH 154 PO-01",
-        "courseName": "Computational Statistics",
+        "courseCode": "ANTH 099 PZ-01",
+        "courseName": "China 21st Century",
         "courseSortKey": [
-            "MATH154  PO-01 FA2021"
+            "ANTH099  PZ-01 FA2021"
         ],
         "courseMutualExclusionKey": [
-            "MATH154  PO"
+            "ANTH099  PZ"
         ],
-        "courseDescription": "An introduction to computationally intensive statistical techniques. Topics may include: random variable generation, Markov Chain Monte Carlo, tree based methods (CART, random forests), kernel based techniques (support vector machines), optimization, other classification, clustering & network analysis, the bootstrap, dimension reduction techniques, LASSO and the analysis of large data sets. Theory and applications are both highlighted. Algorithms will be implemented using statistical software. Prerequisites: MATH 031 PO or MATH 032 PO; and MATH 058 PO.",
+        "courseDescription": "In the 21st century China is among the world\u2019s most powerful nations and yet remains a country of stark economic contrasts. This class will examine the social, cultural, and political consequences of China\u2019s global prominence. Particular attention will be paid to national discourse, resources distribution, generational differences, labor, consumer and internet culture, sex and gender, ethnic groups, the Coronavirus pandemic, and projects of building global infrastructure. The class is a seminar that will combine short lectures with discussions based on the close reading of articles by journalists, anthropologists, and historians. ",
         "courseInstructors": [
-            "Johanna Hardin"
+            "Emily Chao"
+        ],
+        "courseTerm": "FA2021",
+        "courseSchedule": [
+            {
+                "scheduleDays": "W",
+                "scheduleStartTime": "15:00",
+                "scheduleEndTime": "17:45",
+                "scheduleStartDate": "2021-08-30",
+                "scheduleEndDate": "2021-12-17",
+                "scheduleTermCount": 1,
+                "scheduleTerms": [
+                    0
+                ],
+                "scheduleLocation": "BD208"
+            }
+        ],
+        "courseCredits": 1,
+        "courseSeatsTotal": 18,
+        "courseSeatsFilled": 0,
+        "courseWaitlistLength": null,
+        "courseEnrollmentStatus": "Open",
+        "selected": true
+    },
+    {
+        "courseCode": "CSCI 005 HM-01",
+        "courseName": "Introduction to Computer Science",
+        "courseSortKey": [
+            "CSCI005  HM-01 FA2021"
+        ],
+        "courseMutualExclusionKey": [
+            "CSCI005  HM"
+        ],
+        "courseDescription": "Introduction to elements of computer science. Students learn computational problem-solving techniques and gain experience with the design, implementation, testing and documentation of programs in a high-level language. In addition, students learn to design digital devices, understand how computers operate, and learn to program in a small machine language. Students are also exposed to ideas in computability theory. The course includes discussions of societal and ethical issues related to computer science. ",
+        "courseInstructors": [
+            "Zachary Dodds",
+            "Zachary Dodds",
+            "Zachary Dodds",
+            "Alexandra Schofield"
+        ],
+        "courseTerm": "FA2021",
+        "courseSchedule": [
+            {
+                "scheduleDays": "TR",
+                "scheduleStartTime": "08:00",
+                "scheduleEndTime": "09:15",
+                "scheduleStartDate": "2021-08-30",
+                "scheduleEndDate": "2021-12-17",
+                "scheduleTermCount": 1,
+                "scheduleTerms": [
+                    0
+                ],
+                "scheduleLocation": "GAMCAL"
+            },
+            {
+                "scheduleDays": "TR",
+                "scheduleStartTime": "08:00",
+                "scheduleEndTime": "09:15",
+                "scheduleStartDate": "2021-08-30",
+                "scheduleEndDate": "2021-12-17",
+                "scheduleTermCount": 1,
+                "scheduleTerms": [
+                    0
+                ],
+                "scheduleLocation": "GAPRYN"
+            },
+            {
+                "scheduleDays": "TR",
+                "scheduleStartTime": "08:00",
+                "scheduleEndTime": "09:15",
+                "scheduleStartDate": "2021-08-30",
+                "scheduleEndDate": "2021-12-17",
+                "scheduleTermCount": 1,
+                "scheduleTerms": [
+                    0
+                ],
+                "scheduleLocation": "GAEDW"
+            }
+        ],
+        "courseCredits": 3,
+        "courseSeatsTotal": 204,
+        "courseSeatsFilled": 0,
+        "courseWaitlistLength": null,
+        "courseEnrollmentStatus": "Open",
+        "selected": true
+    },
+    {
+        "courseCode": "CSCI 051P PO-01",
+        "courseName": "Intro to CS in Python w/Lab",
+        "courseSortKey": [
+            "CSCI051P PO-01 FA2021"
+        ],
+        "courseMutualExclusionKey": [
+            "CSCI051P PO"
+        ],
+        "courseDescription": "Introduction to the field of computer science using the Python programming language. Topics include iteration and recursion, basic data structures, sorting and searching, elementary analysis of algorithms, and an introduction to object-oriented programming. Special emphasis on working with and making sense of data in order to connect course material with applications in other disciplines. Students must take a lab associated with this section only. No previous programming experience required or expected. Course is equivalent to CSCI040  CM, CSCI 051A PO, CSCI 051G PO, CSCI 051J PO, and CSCI051  PO. Only one of the following courses: CSCI040  CM, CSCI 051A PO, CSCI 051J PO, CSCI 051G PO, CSCI 051P PO, CSCI051 PO, and CSCI 005 HM, can be taken for credit.\n",
+        "courseInstructors": [
+            "Zilong Ye",
+            "Tzu-Yi Chen",
+            "David Kauchak"
+        ],
+        "courseTerm": "FA2021",
+        "courseSchedule": [
+            {
+                "scheduleDays": "MWF",
+                "scheduleStartTime": "10:00",
+                "scheduleEndTime": "10:50",
+                "scheduleStartDate": "2021-08-30",
+                "scheduleEndDate": "2021-12-17",
+                "scheduleTermCount": 1,
+                "scheduleTerms": [
+                    0
+                ],
+                "scheduleLocation": "EDMS114"
+            }
+        ],
+        "courseCredits": 1,
+        "courseSeatsTotal": 24,
+        "courseSeatsFilled": 0,
+        "courseWaitlistLength": null,
+        "courseEnrollmentStatus": "Open",
+        "selected": true
+    },
+    {
+        "courseCode": "CSCI 054 PO-01",
+        "courseName": "Discrete Math and Func. Prog.",
+        "courseSortKey": [
+            "CSCI054  PO-01 FA2021"
+        ],
+        "courseMutualExclusionKey": [
+            "CSCI054  PO"
+        ],
+        "courseDescription": "A combined course on functional programming and formal proof. Students write programs over a variety of data structures, proving their programs correct with respect to precise logical specifications. Programming topics (and proof topics) range over: recursion (induction); combinatorics; algebraic data types, from lists to trees to abstract syntax trees (structural induction); parsers and interpreters (soundness properties); regular expressions (set theory and language theory). Prerequisites: any CSCI051x PO course or Computer Science AP Exam-A with a score of 5. The course is equivalent to CSCI 052 PO plus CSCI 055 PO. This course and any of the following courses can not both be taken for credit: CSCI 052 PO, CSCI 055 PO, and CSCI 060 HM. <a href=\"https://cs.pomona.edu/classes/cs054/\"target=\"_blank\">Additional course information for fall 2020.</a>",
+        "courseInstructors": [
+            "David Kauchak",
+            "Joseph Osborn"
         ],
         "courseTerm": "FA2021",
         "courseSchedule": [
@@ -158,82 +194,47 @@
                 "scheduleTerms": [
                     0
                 ],
-                "scheduleLocation": "ESTE1021"
+                "scheduleLocation": "SCOM104"
             }
         ],
         "courseCredits": 1,
-        "courseSeatsTotal": 30,
+        "courseSeatsTotal": 28,
         "courseSeatsFilled": 0,
         "courseWaitlistLength": null,
         "courseEnrollmentStatus": "Open",
         "selected": true
     },
     {
-        "courseCode": "CSCI 153 HM-02",
-        "courseName": "Computer Vision",
+        "courseCode": "CSCI 070 HM-02",
+        "courseName": "Data Structures/Prgm Development",
         "courseSortKey": [
-            "CSCI153  HM-02 FA2021"
+            "CSCI070  HM-02 FA2021"
         ],
         "courseMutualExclusionKey": [
-            "CSCI153  HM"
+            "CSCI070  HM"
         ],
-        "courseDescription": "Computational algorithms for visual perception. Students will develop applications that acquire, process and interpret still images and image streams. The course will cover representations of color, shading, texture and shape along with stereo and motion analysis, object recognition and approaches for three-dimensional representation. Applications include robotics, human perception and the use of large image databases.  Prerequisite: Computer Science 60 or 42.",
+        "courseDescription": "Abstract data types including priority queues and dynamic dictionaries and efficient data structures for these data types, including heaps, self-balancing trees and hash tables. Analysis of data structures including worst-case, average-case and amortized analysis. Storage allocation and reclamation. Secondary storage considerations. Extensive practice building programs for a variety of applications. Prerequisites: Computer Science 60 or Computer Science 42, and at least one mathematics course at the level of calculus or higher; Mathematics 55 recommended.",
         "courseInstructors": [
-            "James Boerkoel",
-            " Staff"
+            "Erin Talvitie",
+            "Melissa O'Neill"
         ],
         "courseTerm": "FA2021",
         "courseSchedule": [
             {
-                "scheduleDays": "TR",
-                "scheduleStartTime": "14:55",
-                "scheduleEndTime": "16:10",
+                "scheduleDays": "MW",
+                "scheduleStartTime": "11:10",
+                "scheduleEndTime": "12:25",
                 "scheduleStartDate": "2021-08-30",
                 "scheduleEndDate": "2021-12-17",
                 "scheduleTermCount": 1,
                 "scheduleTerms": [
                     0
                 ],
-                "scheduleLocation": "SHAN2461"
+                "scheduleLocation": "MCSC206"
             }
         ],
         "courseCredits": 3,
-        "courseSeatsTotal": 23,
-        "courseSeatsFilled": 0,
-        "courseWaitlistLength": null,
-        "courseEnrollmentStatus": "Open",
-        "selected": true
-    },
-    {
-        "courseCode": "LIT 156 HM-01",
-        "courseName": "Translation/Foreignness of Lang",
-        "courseSortKey": [
-            "LIT 156  HM-01 FA2021"
-        ],
-        "courseMutualExclusionKey": [
-            "LIT 156  HM"
-        ],
-        "courseDescription": "This seminar is designed to introduce students to the foreignness of language through literary translation theory and its praxis. Participants will develop individual projects that will be revised and workshopped over the course of the semester. Weekly readings, including essays by theoreticians, accomplished writer-translators, and selections of multiple translations of a single text, will be used to familiarize students with a range of perspectives on translation and its relationship to writing. Prerequisite: Students must have reading knowledge of at least one foreign language.\n\nHSA Writing Intensive: Yes",
-        "courseInstructors": [
-            "Isabel Balseiro"
-        ],
-        "courseTerm": "FA2021",
-        "courseSchedule": [
-            {
-                "scheduleDays": "F",
-                "scheduleStartTime": "13:20",
-                "scheduleEndTime": "16:20",
-                "scheduleStartDate": "2021-08-30",
-                "scheduleEndDate": "2021-12-17",
-                "scheduleTermCount": 1,
-                "scheduleTerms": [
-                    0
-                ],
-                "scheduleLocation": "SHAN2425"
-            }
-        ],
-        "courseCredits": 3,
-        "courseSeatsTotal": 18,
+        "courseSeatsTotal": 24,
         "courseSeatsFilled": 0,
         "courseWaitlistLength": null,
         "courseEnrollmentStatus": "Open",
